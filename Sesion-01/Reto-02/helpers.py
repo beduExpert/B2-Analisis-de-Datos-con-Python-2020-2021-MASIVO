@@ -1,7 +1,7 @@
 
 def verificar_resultados(df_meteoritos, promedio_diametro, mediana_diametro):
     promedio = df_meteoritos['estimated_diameter.meters.estimated_diameter_max'].mean()
-    if promedio_diametro != promedio:
+    if round(promedio_diametro, 6) != round(promedio, 6):
         print(f'El promedio no fue calculado correctamente.')
         print(f'Promedio esperado: {promedio}; Promedio recibido: {promedio_diametro}')
         return
