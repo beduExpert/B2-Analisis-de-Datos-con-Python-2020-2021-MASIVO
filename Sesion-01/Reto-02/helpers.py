@@ -8,7 +8,7 @@ def verificar_resultados(df_meteoritos, promedio_diametro, mediana_diametro):
         
 
     mediana = df_meteoritos['estimated_diameter.meters.estimated_diameter_max'].median()
-    if mediana_diametro != mediana:
+    if round(mediana_diametro, 4) != round(mediana, 4):
         print(f'La mediana no fue calculada correctamente.')
         print(f'Mediana esperada: {mediana}; Mediana recibida: {mediana_diametro}')
         return
