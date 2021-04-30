@@ -1,7 +1,7 @@
 
-## Sesión 04: Correlaciones y Regresión Linear Simple
+# Sesión 04: Correlaciones y Regresión Linear Simple
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Comprender el concepto de correlación entre variables y por qué es relevante.
 - Comprender el significado del coeficiente de correlación e interpretarlo.
@@ -10,7 +10,7 @@
 - Aprender el concepto de Gráficas de Pares.
 - Aprender el concepto de Regresión Linear Simple y cómo funciona el proceso de entrenamiento e interpretación.
 
-### 2. Contenido
+## 📂 Contenido
 
 <ins>Correlaciones y el coeficiente de correlación de Pearson</ins>
 
@@ -80,6 +80,6 @@ Veamos qué significa hacer una regresión lineal simple y cómo aplicarla.
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 4`**](Postwork/Readme.md)
