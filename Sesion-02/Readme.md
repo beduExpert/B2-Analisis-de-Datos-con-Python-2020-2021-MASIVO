@@ -1,7 +1,7 @@
 
-## Sesión 02: Introducción a la visualización de datos: Distribuciones
+# Sesión 02: Introducción a la visualización de datos: Distribuciones
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Comprender el cocncepto de distribución e identificar la distribución de nuestros datos junto con su importancia.
 - Utilizar la librería Seaborn.
@@ -10,7 +10,7 @@
 - Clasificar algunas de las formas que generan los histogramas.
 - Conocer las gráficas de densidad como una alternativa a los histogramas clásicos.
 
-### 2. Contenido
+## 📂 Contenido
 
 <ins>Distribuciones de Datos</ins>
 
@@ -90,6 +90,6 @@ De igual manera, las gráficas de densidad son una gran herramienta para compara
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 2`**](Postwork/Readme.md)
