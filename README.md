@@ -1,8 +1,14 @@
-## Análisis de Datos con Python 2020
+# Análisis de Datos con Python 2020
 
-### OBJETIVO
+## :wave: Bienvenid@s
 
-### ORGANIZACIÓN DE MÓDULO
+Al finalizar el módulo podrás realizar análisis profundos, manipulación, transformación y extracción de información de bases de datos para responder preguntas a problemas reales. Podrás obtener insights y generar múltiples visualizaciones que permitan comunicar diferentes conclusiones sobre la naturaleza y comportamiento de los datos; tomar decisiones inteligentes basadas en data. Además, podrás aplicar modelos de regresión y clasificación con Pandas para estar listo y dar el siguiente paso hacia la aplicación de modelos de Machine Learning.
+
+## :dart: Objetivo
+
+Utilizar Python y sus librerías para realizar análisis robustos de datos, aplicando modelos estadísticos y matemáticos que permitan encontrar patrones y relaciones en los datos con el fin de generar visualizaciones de análisis univariados, bivariados y multivariados con Seaborn y Matplotlib y aplicar modelos de regresión, clasificación y predicción.
+
+## :bookmark_tabs: Sesiones
 
 - [Sesion-01: Estimados de Locación y Variabilidad](./Sesion-01/Readme.md)
 - [Sesion-02: Introducción a la visualización de datos: Distribuciones](./Sesion-02/Readme.md)
