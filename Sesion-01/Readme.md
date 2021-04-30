@@ -1,7 +1,7 @@
 
-## Sesión 01: Estimados de Locación y Variabilidad
+# Sesión 01: Estimados de Locación y Variabilidad
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Utilizar Google Colab en conjunción con Google Drive y Github.
 - Identificar los tipos de datos estructurados existen.
@@ -11,7 +11,7 @@
 - Identificar los estimados de variabilidad y en qué momento son útiles.
 - Identificar los estadísticos de orden.
 
-### 2. Contenido
+## 📂 Contenido
 
 <ins>Utilización de software</ins>
 
@@ -99,6 +99,6 @@ Tres de los estadísticos de orden más comunes son el **Rango**, los **Percenti
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 1`**](Postwork/Readme.md)
