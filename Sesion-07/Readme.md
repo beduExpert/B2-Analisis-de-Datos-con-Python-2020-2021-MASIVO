@@ -1,12 +1,12 @@
 
-## Sesión 07: Pruebas A/B y Procesamiento de Lenguaje Natural
+# Sesión 07: Pruebas A/B y Procesamiento de Lenguaje Natural
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Evaluar los resultados de Pruebas A/B.
 - Aplicar algunas técnicas de lenguaje natural usando Nltk y TextBlob.
 
-### 2. Contenido
+## 📂 Contenido
 
 ---
 
@@ -54,6 +54,6 @@ Vamos a explorar algunas herramientas y técnicas que hacen esto posible.
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 7`**](Postwork/Readme.md)
