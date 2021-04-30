@@ -12,9 +12,6 @@ Utilizar Python y sus librerías para realizar análisis robustos de datos, apli
 
 - [Datasets](https://drive.google.com/drive/folders/1oXUNacyjuHpGBkmESnKIDA5s03UnS8Vg?usp=sharing)
 
-- [Repositorio](https://github.com/beduExpert/B2-Analisis-de-Datos-con-Python-2020.git)  
-
-
 - [Instalaciones](https://bedu.org/blog/tecnologia/instalaciones-para-el-analisis-de-datos-con-python/) 
 
 > 💡 **Nota:**
