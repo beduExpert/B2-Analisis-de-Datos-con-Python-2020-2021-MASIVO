@@ -1,12 +1,10 @@
 
-## Sesión 06: Visualización de Datos Avanzada
+# Sesión 06: Visualización de Datos Avanzada
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Aprender a modificar los estilos predeterminados de nuestras gráficas
-
-Conocer y aprender a interpretar las siguientes gráficas:
-
+- Conocer y aprender a interpretar las siguientes gráficas:
 - Treemaps
 - Scatterplots por categorías
 - Scatterplots con variables condicionantes
@@ -14,7 +12,7 @@ Conocer y aprender a interpretar las siguientes gráficas:
 - Mapas cloropléticos
 - Gráficas de barras apiladas
 
-### 2. Contenido
+## 📂 Contenido
 
 <ins>Visualización de Datos Avanzada</ins>
 
@@ -121,6 +119,6 @@ En la misma vena que los scatterplots por categorías tenemos a las gráficas de
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 6`**](Postwork/Readme.md)
