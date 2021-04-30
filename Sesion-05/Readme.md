@@ -1,7 +1,7 @@
 
-## Sesión 05: Distribuciones muestrales y técnicas de evaluación de modelos
+# Sesión 05: Distribuciones muestrales y técnicas de evaluación de modelos
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Distinguir la diferencia entre población y muestra.
 - Entender el concepto de 'sesgos' y por qué es tan importante estar conscientes de ellos.
@@ -10,7 +10,7 @@
 - Crear y utilizar histogramas, errores estándar e intervalos de confianza para evaluar la incertidumbre de una medida estadística.
 - Utilizar técnicas para evitar sesgos en el entrenamiento de modelos, como la división de datasets y la validación cruzada.
 
-### 2. Contenido
+## 📂 Contenido
 
 <ins>Poblaciones y muestras</ins>
 
@@ -121,6 +121,6 @@ La validación cruzada lleva el método anterior aún más lejos, puesto que rea
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 5`**](Postwork/Readme.md)
