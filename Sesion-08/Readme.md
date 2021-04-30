@@ -1,7 +1,7 @@
 
-## Sesión 08: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada
+# Sesión 08: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Conocer la definición de Machine Learning, qué es y cómo se utiliza
 - Aplicar un algoritmo de K-Medias
@@ -9,7 +9,7 @@
 - Aplicar un algoritmo de Regresión Logística
 - Evaluar un modelo de Regresión Logística utilizando matriz de confusión y curva ROC / AUC
 
-### 2. Contenido
+## 📂 Contenido
 
 ---
 
@@ -98,6 +98,6 @@ Veamos esta gráfica con más detalle.
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 8`**](Postwork/Readme.md)
