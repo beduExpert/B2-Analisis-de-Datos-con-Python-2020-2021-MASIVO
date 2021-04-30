@@ -19,20 +19,20 @@ Utilizar Python y sus librerías para realizar análisis robustos de datos, apli
 - [Sesion-07: Pruebas A/B y Procesamiento de Lenguaje Natural](./Sesion-07/Readme.md)
 - [Sesion-08: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](./Sesion-08/Readme.md)
 
-> Para acceder a las soluciones, clona la branch `master` en tu computadora. Las soluciones no son visibles desde Github.
 
-### Datasets
+## ⚙ Requisitos
 
-- [Link](https://drive.google.com/drive/folders/1oXUNacyjuHpGBkmESnKIDA5s03UnS8Vg?usp=sharing)
-
-### Repositorio
+- [Datasets](https://drive.google.com/drive/folders/1oXUNacyjuHpGBkmESnKIDA5s03UnS8Vg?usp=sharing)
 
 - [Repositorio](https://github.com/beduExpert/B2-Analisis-de-Datos-con-Python-2020.git)  
 
-### Instalaciones
 
-https://bedu.org/blog/tecnologia/instalaciones-para-el-analisis-de-datos-con-python/
+- [Instalaciones](https://bedu.org/blog/tecnologia/instalaciones-para-el-analisis-de-datos-con-python/) 
 
-### ¿Dónde están las funciones de verificación?
-
+> 💡 **Nota:**
+>
+> Para acceder a las soluciones, clona la branch `master` en tu computadora. Las soluciones no son visibles desde Github.
+>
+>### ¿Dónde están las funciones de verificación?
+>
 > Hay Retos que tienen funciones de verificación para hacer tests del código escrito por los alumnos. Cuando un Reto mencione una función de verificación, puedes encontrarla en la misma carpeta donde está el Reto, en un archivo llamado helpers.py.
