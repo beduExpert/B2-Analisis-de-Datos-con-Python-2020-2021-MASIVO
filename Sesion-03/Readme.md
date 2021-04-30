@@ -1,7 +1,7 @@
 
-## Sesión 03: Exploración de Variables Categóricas y Análisis Multivariable
+# Sesión 03: Exploración de Variables Categóricas y Análisis Multivariable
 
-### 1. Objetivos
+## :dart: Objetivos
 
 - Identificar distintas técnicas para explorar y visualizar variables categóricas.
 - Añadir anotaciones a nuestras gráficas para hacerlas más comprensibles.
@@ -10,7 +10,7 @@
 - Producir más de una gráfica al mismo tiempo para compararlas.
 - Graficar un conjunto de datos numéricos agrupados de acuerdo a una variable categórica.
 
-### 2. Contenido
+## 📂 Contenido
 
 <ins>Variables Categóricas</ins>
 
@@ -97,6 +97,6 @@ Las tablas de contingencia son muy útiles cuando queremos hacer conteo de frecu
 
 ---
 
-### 3. Postwork
+## Postwork
 
 [**`Postwork Sesión 3`**](Postwork/Readme.md)
