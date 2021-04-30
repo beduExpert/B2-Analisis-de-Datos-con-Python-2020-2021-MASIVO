@@ -35,4 +35,4 @@ Utilizar Python y sus librerías para realizar análisis robustos de datos, apli
 >
 >### ¿Dónde están las funciones de verificación?
 >
-> Hay Retos que tienen funciones de verificación para hacer tests del código escrito por los alumnos. Cuando un Reto mencione una función de verificación, puedes encontrarla en la misma carpeta donde está el Reto, en un archivo llamado helpers.py.
+> Hay Retos que tienen funciones de verificación para hacer tests del código escrito por los alumnos. Cuando un Reto mencione una función de verificación, puedes encontrarla en la misma carpeta donde está el Reto, en un archivo llamado `helpers.py`.
