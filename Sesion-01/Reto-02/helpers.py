@@ -14,5 +14,5 @@ def verificar_resultados(df_meteoritos, promedio_diametro, mediana_diametro):
         return
         
     print(f'Los estimados fueron calcualados correctamente.\n')
-    print(f'El promedio calculado fue de {promedio_diametro} mientras que la mediana fue de {mediana_diametro}.')
+    print(f'El promedio calculado fue de {promedio_diametro} mientras que la mediana fue de {promedio}.')
     print(f'¿A qué le atribuyes tú la diferencia?')
